@@ -26,5 +26,5 @@
 <h3 align="left">LeetCode:</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ZcNGB9npOX?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/trishnshukla?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
