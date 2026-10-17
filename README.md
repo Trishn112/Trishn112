@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Trishn Shukla<br><br>B.Tech CSE (AI & ML) student at Galgotias University.<br><br>Interested in Software Development, AI/ML, and Web Development.<br><br>Working with C++, Java, Python, React, and Node.js.<br><br>Building projects that solve real-world problems.<br><br>Learning DSA and exploring new technologies.
+<br><br>
 <br>Portfolio: https://trishnshukla.netlify.app/<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yt_.trishn._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trishn-shukla-751269272) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/trishnshukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trishnshukla9011@gmail.com) 
